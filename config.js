@@ -14,29 +14,29 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6288212912038'] //ur owner number
-global.ownername = "ciel-sama" //ur owner name
-global.developer = "ciel-sama" //nama lu
+global.vcardowner = ['6283177947582'] //ur owner number
+global.ownername = "asura-sama" //ur owner name
+global.developer = "asura-sama" //nama lu
 global.sgc = "https://chat.whatsapp.com/EklKM7VFqfUFnu99kyLIRI"
 global.location = "Banten" //ur location
 
 //bot bomdy 
-global.owner = ['6288212912038'] //ur number
-global.ownernomer = "6288212912038" //ur number
-global.ownertag = '6288212912038' //ur tag number
-global.premium = ['6288212912038'] //ur premium number
-global.botname = 'karylbotz' //ur bot name
-global.ownername = "ciel-sama"
+global.owner = ['6283177947582'] //ur number
+global.ownernomer = "6283177947582" //ur number
+global.ownertag = '6283177947582' //ur tag number
+global.premium = ['6283177947582'] //ur premium number
+global.botname = 'fujiwarabotz' //ur bot name
+global.ownername = "asuda-sama"
 global.linkz = "https://youtube.com/@ciel-sama" //your theme url which will be displayed on whatsapp
-global.dana = "6288212912038"
-global.gopay = "6288212912038"
-global.pulsa = "6288212912038"
+global.dana = "6283177947582"
+global.gopay = "6283177947582"
+global.pulsa = "6283177947582"
 global.websitex = "https://youtube.com/@ciel-sama" //ur website to be displayed
 global.websitex1 = "https://chat.whatsapp.com/EklKM7VFqfUFnu99kyLIRI"
 global.themeemoji = "🍒" //ur theme emoji
 global.packname = "created by" //ur sticker watermark packname
-global.author = "karylbotz" //ur sticker watermark author
-global.wm = "ciel-sama" //ur watermark
+global.author = "chika fujiwara" //ur sticker watermark author
+global.wm = "asura-sama" //ur watermark
 
 // Other
 global.sessionName = 'Session'
